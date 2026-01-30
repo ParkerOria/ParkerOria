@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ParkerOria
-- 👀 I’m interested in software development
+# 👋 Hi, I’m @ParkerOria
+- 👀 I’m interested in network security
 - 🌱 I’m currently learning cyber security at California State University Fullerton
 - 💞️ I’m looking to collaborate on fun stuff
 - 📫 How to reach me: parkeroria22@gmail.com
